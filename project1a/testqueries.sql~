@@ -1,0 +1,1 @@
+SELECT mid FROM (SELECT mid, totalIncome FROM Sales GROUP BY mid HAVING totalIncome > 17900000 ORDER BY totalIncome)

@@ -1,0 +1,761 @@
+list_of_names_in_die_another_day
+Halle Berry
+Judi Dench
+Rosamund Pike
+Pierce Brosnan
+John Cleese
+Paul Darrow
+Thomas Ho
+Michael Madsen
+Toby Stephens
+Rick Yune
+count_of_all_actors_with_multiple_movies
+4824
+title_with_over_a_million_tickets
+Plein soleil
+Fun in Acapulco
+Fantastic Voyage
+Sand Pebbles, The
+Paint Your Wagon
+Wedding Party, The
+Wrecking Crew, The
+Great White Hope, The
+Bananas
+Big Jake
+Last Picture Show, The
+Murphys War
+Inserts
+Ai no borei
+Superman
+Qualcuno in ascolto
+Honeymoon Academy
+Rainbow Thief, The
+Dead and Alive: The Race for Gus Farace
+Just Like a Woman
+Fresa y chocolate
+Theremin: An Electronic Odyssey
+Bar Girls
+Blood of the Innocent
+Children of the Corn III
+Chong qing sen lin
+Cyborg 3: The Recycler
+Dellamorte Dellamore
+Exotica
+Father and Scout
+Girls in Prison
+Gladiator Cop
+Heavenly Creatures
+Mosaic Project, The
+Nadja
+Night and the Moment, The
+Pura formalitÃ , Una
+Somebody to Love
+Warrior Spirit
+Apollo 13
+As Good as Dead
+Assassins
+Aurora: Operation Intercept
+Back of Beyond
+Best of the Best 3: No Turning Back
+Bikini Drive-In
+Blondes Have More Guns
+Breaking Free
+Bridges of Madison County, The
+Casino
+Circle of Friends
+Dark Dancer, The
+Dead Presidents
+Dead Weekend
+Desperado
+Die Hard: With a Vengeance
+Dolores Claiborne
+Eye of the Wolf
+Fast Money
+Full Body Massage
+Gospa
+Hard Bounty
+Haunted
+Heavy
+Hollow Point
+Hunted, The
+Indian in the Cupboard, The
+Inferno
+It Takes Two
+Jack-O
+Kid in King Arthurs Court, A
+Langoliers, The
+Last Supper, The
+Loch Ness
+Losing Isaiah
+Major Payne
+Mallrats
+Man in the Attic, The
+Nature of the Beast
+Net, The
+Nick of Time
+Out There
+Out-of-Sync
+Power of Attorney
+Project Shadowchaser III
+Proteus
+Rage
+Raw Target
+Run of the Country, The
+Sense and Sensibility
+Street Fighter II: The Animated Movie
+Street Law
+Tales from the Hood
+Things to Do in Denver When Youre Dead
+To the Limit
+Tom and Huck
+Two Guys Talkin About Girls
+Virtuosity
+Welcome to the Dollhouse
+Wild Bill
+Windrunner
+Young Poisoners Handbook, The
+Albino Alligator
+Alien Avengers
+American Strays
+Animal Instincts III
+Annie O
+Arranged Marriage
+Big Squeeze, The
+Black Sheep
+Blast
+Blood Money
+Bordello of Blood
+Boston Kickout
+Breakaway
+Busted
+Caught
+Children of the Revolution
+City Hall
+Craft, The
+Dear God
+Dog Watch
+Dogs: The Rise and Fall of an All-Girl Bookie Joint
+Dont Look Back
+Dunston Checks In
+Dusting Cliff 7
+DÃ©sirÃ©
+English Patient, The
+Eraser
+Escape Clause
+Evita
+Eye for an Eye
+Family Thing, A
+Girl 6
+Gullivers Travels
+Hellraiser: Bloodline
+Hotel de Love
+Humanoids from the Deep
+Indian Summer
+Infinity
+Inside
+Jerry Maguire
+Jingle All the Way
+Joes Apartment
+Josh Kirby... Time Warrior: Chapter 6, Last Battle for the Universe
+Joyride
+Kama Sutra: A Tale of Love
+Kissing a Dream
+Last Big Thing, The
+Last Exit to Earth
+Love Is All There Is
+Lovers Knot
+Lurid Tales: The Castle Queen
+Magenta
+Mariette in Ecstasy
+Mars Attacks!
+Maternal Instincts
+Mistrial
+Moll Flanders
+My Fellow Americans
+My Very Best Friend
+Petticoat Planet
+Phat Beach
+Prisoner of Zenda, Inc.
+Ripe
+Robin of Locksley
+Run for the Dream: The Gail Devers Story
+Scorned 2
+Secret Agent, The
+Some Mothers Son
+Sometimes They Come Back... Again
+Space Jam
+Space Marines
+Spill
+Spy Hard
+Stormy Nights
+Thin Line Between Love and Hate, A
+Time to Kill, A
+Twister
+Underworld
+Walnut Creek
+Wedding Bell Blues
+Whole Wide World, The
+Afterglow
+Alan Smithee Film: Burn Hollywood Burn, An
+American Perfekt
+American Werewolf in Paris, An
+Amityville: Dollhouse
+Austin Powers: International Man of Mystery
+Bad Day On the Block
+Bella Mafia
+Beverly Hills Ninja
+Bikini Traffic School
+Bliss
+Call to Remember, A
+Chinese Box
+Cold Around the Heart
+Conspiracy Theory
+Cube
+Devils Advocate, The
+Devils Own, The
+Dont Sleep Alone
+Double Tap
+Drunks
+DÃ©jÃ  Vu
+Edge, The
+Erotic Confessions: Volume 8
+Eves Bayou
+Event Horizon
+Firelight
+Gattaca
+Girl Gets Moe, The
+Good Burger
+Heaven or Vegas
+House of Yes, The
+How to Be a Player
+I Know What You Did Last Summer
+Ill Gotten Gains
+Lolita
+Jackal, The
+Joe Torre: Curveballs Along the Way
+Julian Po
+Killing Mr. Griffin
+Kiss or Kill
+Kull the Conqueror
+Legend of the Lost Tomb
+Life During Wartime
+Lost World: Jurassic Park, The
+Loved
+Malaika
+Mandela and de Klerk
+Masterminds
+Matter of Trust
+Meet Wally Sparks
+Melanie Darrow
+Morella
+Motel Blue
+Mouse Hunt
+Mrs. Brown
+Nirvana
+No Contest II
+O Que Ã‰ Isso, Companheiro?
+Pale Saints
+Perfect Crime
+Price of Desire, The
+Price of Kissing, The
+Rainmaker, The
+Regeneration
+Relic, The
+Rock and a Hard Place, A
+Rocket Man
+Rosewood
+Rough Draft
+Saint-Ex
+Sea Wolf, The
+Sexual Impulse
+Shadow Conspiracy
+Space Truckers
+Suspicious Minds
+Sweet Hereafter, The
+Two Girls and a Guy
+U Turn
+Unmade Beds
+Once a Thief
+20 Dates
+Addams Family Reunion
+Adventures of Sebastian Cole, The
+Alice et Martin
+Almost Heroes
+Appetite
+Baby Monitor: Sound of Fear
+Black Widow Escort
+Bone Daddy
+Breaking the Silence
+Bright Shining Lie, A
+Browns Requiem
+Caught Up
+City of Angels
+Clay Pigeons
+Con, The
+Cool, Dry Place, A
+Counter Measures
+Cousin Bette
+Curve, The
+Dancer, Texas Pop. 81
+Dangerous Beauty
+Dead Husbands
+Defenders: Choice of Evils, The
+Desert Blue
+Desperate Measures
+Dirty Work
+Doctor Dolittle
+Drylongso
+Falling Fire
+Gods and Monsters
+Golf Punks
+Happiness
+He Got Game
+Hope Floats
+Hurlyburly
+Indiscreet
+Killer Eye, The
+Killers in the House
+Living Out Loud
+Love Kills
+Lulu on the Bridge
+Mask of Zorro, The
+Meet the Deedles
+Miss Monday
+Modern Vampires
+My Giant
+Negotiator, The
+No Code of Conduct
+No Laughing Matter
+One Hell of a Guy
+Pass, The
+Phantoms
+Players Club, The
+Playing by Heart
+Practical Magic
+Prophecy II, The
+Rat Pack, The
+Real Howard Spitz, The
+Revengers Comedies, The
+Route 9
+Safe Men
+Shakespeare in Love
+Simple Plan, A
+Sliding Doors
+Snake Eyes
+Soldier
+Species II
+Storefront Hitchcock
+Stricken
+Tale of the Mummy
+Tarzan and the Lost City
+Telling You
+Thursday
+Undercurrent
+Wild Things
+Without Limits
+Ã‰cole de la chair, L
+10 Things I Hate About You
+4th Floor, The
+All the Rage
+Analyze This
+Atomic Train
+Avalanche
+Basket, The
+Big Tease, The
+BitterSweet
+Bone Collector, The
+Bowfinger
+Chill Factor
+Confession, The
+Corruptor, The
+Cradle Will Rock
+Dogma
+Drop Dead Gorgeous
+Eastside
+Equinox Knocks
+Excellent Cadavers
+Felicias Journey
+Fever
+Foreign Correspondents
+Freak Talks About Sex
+Freeway II: Confessions of a Trickbaby
+From Dusk Till Dawn 2: Texas Blood Money
+Game Day
+Generals Daughter, The
+Goodbye Lover
+Hidden Beauties
+Hidden Passion
+Injong sajong polkot opta
+Interceptors
+Jesus Son
+Joyriders, The
+Judgment Day
+Julien Donkey-Boy
+Lake Placid
+Late Last Night
+Lesson Before Dying, A
+Life
+Lighthouse
+Limey, The
+Loving Jezebel
+Mambo CafÃ©
+Miss Julie
+Morgans Ferry
+Mumford
+Muse, The
+Music of the Heart
+Out-of-Towners, The
+Outlaw Justice
+Outside Providence
+Packing Suburbia, A
+Pimps Up, Hos Down
+Play It to the Bone
+Pop & Me
+Random Hearts
+Ravenous
+Rites of Passage
+Room for Romeo Brass, A
+Rowdy Girls, The
+Running Red
+Secret Pleasures
+SLC Punk!
+Soft Toilet Seats
+Speedway Junky
+Splendor
+Stigmata
+Stonebrook
+Strange Justice
+Sweepers
+Swing
+Terror Firmer
+Thirteenth Floor, The
+Thomas Crown Affair, The
+Time Served
+Tinseltown
+Titus
+Top of the Food Chain
+Topsy-Turvy
+Tumbleweeds
+Unconditional Love
+Unseen Evil
+Varsity Blues
+Veronica 2030
+Vipers
+Virgin Suicides, The
+Wake In Providence, A
+Waterproof
+Wing Commander
+Wonderland
+60s, The
+Roughnecks: The Starship Troopers Chronicles
+Storm of the Century
+All the Pretty Horses
+Almost Famous
+American Tragedy
+Astoria
+Audrey Hepburn Story, The
+Blacktop
+Bring It On
+Brooklyn Sonnet
+Bruno
+Contender, The
+Convent, The
+Cure for Boredom, The
+Dark Prince: The True Story of Dracula
+Dragon and the Hawk
+G-Men from Hell
+Groove
+Harrisons Flowers
+Here on Earth
+High Fidelity
+House of Mirth, The
+Iedereen beroemd!
+In Pursuit
+Invited Guest, An
+Jinxd
+Kevin & Perry Go Large
+Kiss Tomorrow Goodbye
+Last Producer, The
+Last Stop, The
+Little Red
+Looking for an Echo
+Miss Congeniality
+Octopus
+On the Borderline
+Other Voices
+Party Crasher: My Bloody Birthday
+Poor White Trash
+Postmark Paradise
+Prison of the Dead
+Rangers
+Rumor of Angels, A
+Seunlau ngaklau
+Sexual Intrigue
+Shadow Hours
+Shaft
+Shrink Is In, The
+Sometimes a Hero
+Tejing xinrenlei 2
+Tigerland
+Time Share
+U-571
+Under Hellgate Bridge
+What Planet Are You From?
+Whats Cooking?
+When the Sky Falls
+Where the Money Is
+Whipped
+X Change
+X-Men
+Zigs
+`R Xmas
+Ali
+American Pie 2
+Anniversary Party, The
+AntiTrust
+Artificial Intelligence: AI
+Bandits
+Black Hawk Down
+Blow
+Breed, The
+Bubble Boy
+Chasing Destiny
+Christy: The Movie
+Ciao America
+Close Enough to Touch
+Club Land
+Crazy/Beautiful
+Crocodile Dundee in Los Angeles
+Da wan
+Daddy and Them
+Dinner with Friends
+Disaster
+Dogtown and Z-Boys
+Domestic Disturbance
+Double Deception
+Driven
+Edges of the Lord
+Emploi du temps, L
+Enigma
+Final
+Fourth Angel, The
+Frightening, The
+Gentlemans Game, A
+Green Dragon
+Haunted Castle
+Heartbreakers
+Her Majesty
+Jump Tomorrow
+Kill Me Later
+Knights Tale, A
+Landspeed
+Last Cry
+Laughter on the 23rd Floor
+Lawless Heart, The
+Legally Blonde
+Little Secrets
+Lord of the Rings: The Fellowship of the Ring, The
+Lovely & Amazing
+Maniacts
+Manna From Heaven
+Matthew Blackheart: Monster Smasher
+Mindstorm
+New Port South
+No Mans Land
+Original Sin
+Out of Line
+PiÃ±ero
+Prison Song
+Scary Movie 2
+Session 9
+Shiqi sui de dan che
+Shot in the Heart
+Social Misfits
+Soul Survivors
+To End All Wars
+Training Day
+True Blue
+U.S. Seals II
+Void, The
+What Girls Learn
+World Traveler
+8 Mile
+All About the Benjamins
+Analyze That
+Ballistic: Ecks vs. Sever
+Barbershop
+Big Fat Liar
+Big Trouble
+Blue Car
+Charly
+City by the Sea
+Cryptz
+Death to Smoochy
+Deathbed
+Derailed
+Deuces Wild
+Enough
+Exhibitionist Files, The
+Four Feathers, The
+Harts War
+Heartlands
+Hell Asylum
+Jigsaw
+John Q
+K-9: P.I.
+Kid Stays In the Picture, The
+Killing Me Softly
+Killjoy 2: Deliverance From Evil
+Knight Chills
+Long Time Dead
+Love and a Bullet
+Makin Baby
+Octopus 2: River of Fear
+Powerpuff Girls, The
+Punch-Drunk Love
+Queen of the Damned
+Respiro
+Riff, The
+Run Ronnie Run!
+Season on the Brink, A
+Severed
+Signs
+Singles Ward, The
+Sleeping Dictionary, The
+Spider-Man
+Star Trek: Nemesis
+They
+Third Wheel, The
+Time Changer
+Tuck Everlasting
+Ultimate X: The Movie
+Core, The
+House of 1000 Corpses
+Just Married
+Old School
+avg_tickets_sold_for_drama_movies
+643770.9680
+directors_who_directed_films_with_imdb_rating_over_90
+Abel Ferrara
+Adrian Lyne
+Albert Brooks
+Alfonso Arau
+Ang Lee
+Anne Heche
+Antonio Banderas
+Arthur Hiller
+Barry Sonnenfeld
+Bille August
+Cameron Crowe
+Caryn Krooth
+Chantal Akerman
+Chris Columbus
+Chris Mazzei
+Christine Lahti
+Christopher Coppola
+Christopher Nolan
+Christopher Reeve
+Craig Mazin
+Curtis Hanson
+Danny Draven
+Darnell Martin
+David DeCoteau
+David Lynch
+David Winning
+Dominic Sena
+Don Bluth
+Frank Oz
+Fred Gallo
+Gavin Millar
+George Hickenlooper
+George Lucas
+Gillian Armstrong
+Gillies MacKinnon
+Giuseppe Tornatore
+Goran Paskaljevic
+Gregory Nava
+Gregory Ruzzin
+Hark Tsui
+Harold Ramis
+Hayao Miyazaki
+Henry Jaglom
+Ivan Reitman
+James Ivory
+Jay Russell
+Jean-Paul Rappeneau
+Jean-Pierre Jeunet
+Jim Fall
+Jim Sheridan
+Joel Schumacher
+John Boorman
+John Frankenheimer
+John Madden
+John McTiernan
+John Sayles
+Jon Amiel
+Jon Voight
+Jonathan Demme
+Jonathan Frakes
+Joseph Sargent
+Julio Medem
+Kasi Lemmons
+Keith Gordon
+Kenneth Branagh
+Kiefer Sutherland
+Lizzie Borden
+Luca Bercovici
+Mark Roper
+Martha Coolidge
+Martin Scorsese
+Mel Gibson
+Melanie Mayron
+Michael Corrente
+Michael Cristofer
+Michael Cuesta
+Michael Lindsay-Hogg
+Michael Winterbottom
+Mick Jackson
+Mike Figgis
+Mike Newell
+Monika Treut
+Nancy Malone
+Neil LaBute
+Paul Chart
+Peter Chelsom
+Peter Hyams
+Peter Jackson
+Peter Markle
+Peter Weller
+Ray Burdis
+Renny Harlin
+Richard Benjamin
+Richard Donner
+Richard Kwietniowski
+Richard Linklater
+Rob Cohen
+Rob Reiner
+Rob Zombie
+Robert Altman
+Roger Donaldson
+Roger Kumble
+Ron Howard
+Ron Shelton
+Russell Mulcahy
+Sam Firstenberg
+Saul Rubinek
+Shane Meadows
+Stephen Frears
+Stephen Herek
+Steve Buscemi
+Steven Spielberg
+Taylor Hackford
+Thomas Vinterberg
+Timothy Hutton
+Trey Parker
+Troy Duffy
+Uli Edel
+Wayne Wang
+William Friedkin
+Wim Wenders
+Wolfgang Petersen
+Woody Allen

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CS143 Project 1B</title>
+</head>
+
+<body>
+<h2>CS143 PROJECT 1B</h2>
+<h2>Spring 2017</h2>
+<h2>Avery Wong</h2>
+<h2>UID: 904582269</h2>
+</body>
+
+<head>
+<style>
+* {
+    box-sizing: border-box;
+}
+.header, .footer {
+    background-color: grey;
+    color: white;
+    padding: 15px;
+}
+.column {
+    float: left;
+    padding: 15px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.menu {
+    width: 25%;
+}
+.content {
+    width: 75%;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    padding: 8px;
+    margin-bottom: 8px;
+    background-color: #33b5e5;
+    color: #ffffff;
+}
+.menu li:hover {
+    background-color:#0099cc;
+}
+
+p{
+color:gold;
+}
+
+h1{
+color: gold;
+}
+
+h2{
+color: gold;
+}
+label {
+  background-color: gold;
+  color: black;
+  padding: 4px;
+ <!-- text-transform: uppercase;
+  font-family: Verdana, Arial, Helvetica, sans-serif;-->
+  font-size: 100%;
+}
+</style>
+<style>
+body {
+   background-image: url("wall.jpg");
+   background-color:lightblue;
+}
+</style>
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Project 1B</h1>
+</div>
+
+<div class="clearfix">
+  <div class="column menu">
+    <ul>
+       <h1>Add Content</h1>
+       <li><a href="index.php">Main Page</a></li>
+       <li><a href="homepage.php">Add Actor/Director</a></li>
+       <li><a href="Add_movie.php">Add Movie Information</a></li>
+       <li><a href="Add_M_A_R.php">Add Movie/Actor Relation</a></li>
+       <li><a href="Add_M_D_R.php">Add Movie/Director Relation</a></li>
+       <h1>Browse Content</h1>
+       <li><a href="Show_A.php">Show Actor Information</a></li>
+       <li><a href="Show_M.php">Show Movie Information</a></li>      
+       <h1>Search Content</h1>
+        <li><a href="search.php">Search/Actor Movie</a></li>
+    </ul>
+   </div>
+  
+  <div class="column content">
+    <h1>Main Page</h1>
+    <p>Welcome to Avery Wong's Movie Database!</p>
+    <p>Feel free to test out my web page.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <p>By Avery Wong</p>
+</div>
+
+</body>
+ 
+</body>
+</html>

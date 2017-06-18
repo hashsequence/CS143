@@ -1,0 +1,126 @@
+/*I used this tutorial for mysql:
+https://www.tutorialspoint.com/mysql/mysql-create-tables.htm
+https://www.w3schools.com/sql/sql_check.asp*/
+
+CREATE TABLE Movie ( 
+       id INT NOT NULL, 
+       title VARCHAR(100) NOT NULL,  
+       year INT NOT NULL, 
+       rating VARCHAR(10),
+       company VARCHAR(50),
+       PRIMARY KEY(id)
+);
+/*PRIMARY KEY(id) : is needed because very movie has a unique id
+constraints: id, title, and year cannot be null*/
+
+CREATE TABLE Actor (
+       id INT NOT NULL, 
+       last VARCHAR(20) NOT NULL, 
+       first VARCHAR(20) NOT NULL,
+       sex VARCHAR(6) NOT NULL, 
+       dob DATE NOT NULL, 
+       dod DATE,
+       PRIMARY KEY(id),
+       CHECK(dob < dod OR dod IS NULL) 
+);
+/*PRIMARY KEY(id): every actor needs a unique id to be distinct from one another
+check constraint: dod is logically after dob if it exists otherwise it is NULL*/
+
+
+CREATE TABLE Sales (
+       mid INT NOT NULL, 
+       ticketsSold INT, 
+       totalIncome INT, 
+       PRIMARY KEY(mid),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE 
+       
+) ENGINE = INNODB; 
+/*PRIMARY KEY(mid) : all movies have unique id
+FOREIGN KEY(mid) : all Sale entry cannot exist without a movie entry*/
+
+
+CREATE TABLE Director (
+       id INT NOT NULL, 
+       last VARCHAR(20) NOT NULL,
+       first VARCHAR(20) NOT NULL,
+       dob DATE NOT NULL,
+       dod DATE,
+       PRIMARY KEY(id),
+       CHECK(dob < dod OR dod IS NULL) 
+);
+/*PRIMARY KEY(id): all director have a unique id
+check constraint: dod is logically after dob if it exists otherwise it is NULL*/
+
+CREATE TABLE MovieGenre (
+       mid INT,
+       genre VARCHAR(20),
+       PRIMARY KEY(mid,genre),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE
+) ENGINE = INNODB;
+/*PRIMARY KEY(mid): every moviegenre entry must refer to a movie
+PRIMARY KEY(genre): the purpose of this table is to show the genre
+FOREIGN KEY(mid): cannot exist without a movie*/
+
+
+CREATE TABLE MovieDirector (
+       mid INT NOT NULL, 
+       did INT NOT NULL,
+       PRIMARY KEY(mid,did),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE, 
+       FOREIGN KEY(did) REFERENCES Director(id) ON DELETE CASCADE 
+)  ENGINE = INNODB;
+/*PRIMARY KEY(mid): need to the mid to relate to directors' id
+PRIMARY KEY(did): needs did to relate to the movies' id
+FOREIGN KEYS: this relation exists as a bridge between Movie and Director*/
+
+CREATE TABLE MovieActor (
+       mid INT NOT NULL,
+       aid INT NOT NULL,
+       role VARCHAR(50) NOT NULL,
+       PRIMARY KEY(mid,aid),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE,
+       FOREIGN KEY(aid) REFERENCES Actor(id) ON DELETE CASCADE
+) ENGINE = INNODB;
+/*PRIMARY KEYS: as said before, this relation needs the mid and aid to bridge the two tables: Movie and Actor together
+FOREIGN KEYS: this bridge table cannot exist without Movie and Actor*/
+
+
+CREATE TABLE MovieRating (
+       mid INT NOT NULL,
+       imdb INT,
+       rot INT,
+       PRIMARY KEY(mid),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE,
+       CHECK(imdb IS NULL OR (imdb <= 100 AND imdb >= 0)),
+       CHECK(rot IS NULL OR (rot <= 100 AND imdb >= 0)) 
+) ENGINE = INNODB;
+/*PRIMARY KEYS: need the mid to specify what movie the ratings are for
+FOREIGN KEYS need to reference the movie because ratings does not exist without a movie
+CHECK: imdb and rot rating either does not exist or is within the specified range*/
+
+CREATE TABLE Review (
+       name VARCHAR(20) NOT NULL,
+       time TIMESTAMP NOT NULL,
+       mid INT NOT NULL,
+       rating INT,
+       comment VARCHAR(500),
+       PRIMARY KEY(mid),
+       FOREIGN KEY(mid) REFERENCES Movie(id) ON DELETE CASCADE,
+       CHECK(rating < 6 OR rating > 0), 
+       CHECK(rating IS NOT NULL OR comment IS NOT NULL)
+) ENGINE = INNODB;     
+/*PRIMARY KEYS: needs the name, and the movie
+CHECKS: rating has to be within bounds and entry is pointless unless there is a comment or rating made by reviewer*/
+
+
+CREATE TABLE MaxPersonID (
+       id INT NOT NULL,
+       PRIMARY KEY (id)
+);
+/*PRIMARY KEY(id): makes no sense to have a null entry*/
+
+CREATE TABLE MaxMovieID (
+       id INT NOT NULL,
+       PRIMARY KEY (id)
+);
+/* PRIMARY KEY(id): makes no sense to have a null entry*/
